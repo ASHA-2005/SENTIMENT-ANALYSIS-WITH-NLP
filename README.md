@@ -63,3 +63,7 @@ Conclusion:
 The Sentiment Analysis with NLP project was a highly insightful part of my internship experience. It helped me apply theoretical concepts in practical coding, strengthened my machine learning foundation, and enhanced my ability to work with textual data. The project flow — from data preprocessing to prediction — was a complete hands-on cycle of an NLP solution. These learnings are valuable assets for my future academic projects and professional development in data science.
 
 This GitHub repository contains the complete implementation of the project, including Python source code, instructions to run it, and a sample dataset for testing.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/c3c5ff9a-cb57-4442-95d4-3057f3b72159)
